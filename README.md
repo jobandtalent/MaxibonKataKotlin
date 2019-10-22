@@ -1,6 +1,6 @@
 ## Kata Maxibon for Kotlin.
 
-During this kata we will try to find how to use property based testing from different points of view:
+During this kata we will try to find how to use testing from different points of view:
 
 * Using [TDD][tdd].
 
